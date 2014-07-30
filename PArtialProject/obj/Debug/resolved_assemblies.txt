@@ -1,0 +1,2 @@
+C:\Users\Philippe\Documents\PArtialProject\PartialProject\bin\Debug\PartialProject.dll
+F:\Philippe Things\Travail\PayPalDll\PayPalDLL\PayPalDLL\obj\Debug\PayPalDLL.dll

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">PartialProject</string>
+	<!--- BuyCredit -->
+	<string name="BuySmall">Buy 5 tokens</string>
+    <string name="BuyMedium">Buy 10 tokens</string>
+    <string name="BuyLarge">Buy 25 tokens</string>
+    <string name="BuyExplication">This is the place where we will explain everything the user have to know to understand what he is buying and how much it cost ect.</string>
+</resources>

@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.02c615d5093c07ea" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartialProject\BuyCreditActivity.cs">
+    <Files>
+      <File FileName="PArtialProject\MainActivity.cs" Line="12" Column="24" />
+      <File FileName="PartialProject\Core.cs" Line="1" Column="1" />
+      <File FileName="PartialProject\BuyCreditActivity.cs" Line="82" Column="6" />
+      <File FileName="PartialProject\Resources\Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="PartialProject\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="PartialProject\Properties\AndroidManifest.xml" Line="14" Column="63" />
+      <File FileName="PartialProject\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="PartialProject\obj\Debug\android\AndroidManifest.xml" Line="2" Column="146" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Philippe\Documents\PArtialProject\PartialProject\BuyCreditActivity.cs" line="81" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PartialProject MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+</Properties>

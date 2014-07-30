@@ -1,0 +1,2 @@
+PartialProject.MainActivity;partialproject.MainActivity
+PartialProject.BuyCreditActivity;partialproject.BuyCreditActivity
